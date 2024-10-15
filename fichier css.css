@@ -35,18 +35,21 @@ main {
 
  img {
   border-radius: 50%;
-  text-align: center;
  }
 
 
 aside {
   background-color: #179498;
   width: 260px; /* Largeur spécifique */
-  height: 765px; /* Hauteur spécifique */
+  height: 925px; /* Hauteur spécifique */
 }
 
 footer {
   background-color: #179498;
-  width: 824px; /* Largeur spécifique */
+  width: 1680px; /* Largeur spécifique */
   height: 28px; /* Hauteur spécifique */
+}
+
+section {
+  text-align: left;
 }
