@@ -59,14 +59,16 @@ footer {
   height: 28px; /* Hauteur spécifique */
 }
 
+
 section {
   text-align: left;
   font-size: 25px;
   color: black;
+
 }
 
 header {
-  background-image: url('photo\ fond.jpg');
+  background-image: url('photo_fond.jpg');
   background-size: cover; /* Ajuste l'image pour couvrir tout l'écran */
   background-position: center; /* Centre l'image */
   background-repeat: no-repeat; /* Empêche la répétition de l'image */
