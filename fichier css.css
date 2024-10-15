@@ -2,10 +2,14 @@ h1 {
         color: red;
         text-decoration: underline;
         font-family: 'MaPolicePersonnalisée', arial;
+        font-size: 50px;
 }
 
-p:first-of-type {
+p {
   font-weight: bold; /* Met le premier paragraphe en gras */
+  font-size: 20px;
+  color: white;
+  
 }
 
 * {
@@ -30,6 +34,9 @@ h4 {
 
 main {
   text-align: left;
+  font-size: 20px;
+  color: black;
+
 }
 
 
@@ -40,8 +47,10 @@ main {
 
 aside {
   background-color: #179498;
-  width: 260px; /* Largeur spécifique */
-  height: 925px; /* Hauteur spécifique */
+  width: 310px; /* Largeur spécifique */
+  height: 1300px; /* Hauteur spécifique */
+  font-size: 20px;
+  
 }
 
 footer {
@@ -52,4 +61,18 @@ footer {
 
 section {
   text-align: left;
+  font-size: 25px;
+  color: black;
+}
+
+header {
+  background-image: url('photo\ fond.jpg');
+  background-size: cover; /* Ajuste l'image pour couvrir tout l'écran */
+  background-position: center; /* Centre l'image */
+  background-repeat: no-repeat; /* Empêche la répétition de l'image */
+}
+
+body{
+  margin: 0;
+  padding: 0;
 }
