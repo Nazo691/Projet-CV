@@ -2,7 +2,7 @@ h1 {
         color: red;
         text-decoration: underline;
         font-family: 'MaPolicePersonnalisée', arial;
-        font-size: 50px;
+        font-size: 50px; /* taille d'écriture */
 }
 
 p {
@@ -25,7 +25,7 @@ h2 {
 
 h3 {
   color: #179498;
-  text-decoration: underline;
+  text-decoration: underline; /* surligne */
   font-family: 'MaPolicePersonnalisée', arial;
   font-size: 25px;
 }
@@ -38,6 +38,7 @@ main {
   text-align: left;
   font-size: 20px;
   color: black;
+  padding-right: 300px;
 
 }
 
@@ -57,7 +58,7 @@ aside {
 
 footer {
   background-color: #179498;
-  width: 1680px; /* Largeur spécifique */
+  width: 1510px; /* Largeur spécifique */
   height: 28px; /* Hauteur spécifique */
 }
 
@@ -65,8 +66,6 @@ footer {
 section {
   font-size: 25px;
   color: black;
-
-  
 }
 
 header {
