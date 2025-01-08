@@ -1,77 +1,80 @@
 h1 {
-        color: red;
-        text-decoration: underline;
-        font-family: 'MaPolicePersonnalisée', arial;
-        font-size: 50px; /* taille d'écriture */
+  color: red;
+  text-decoration: underline;
+  font-family: 'MaPolicePersonnalisée', arial;
+  font-size: 50px; /* taille d'écriture */
 }
 
 p {
-  font-weight: bold; /* Met le premier paragraphe en gras */
-  font-size: 20px;
-  color: white;
-  
+font-weight: bold; /* Met le premier paragraphe en gras */
+font-size: 20px;
+color: white;
+
 }
 
 * {
-  font-family: 'MaPolicePersonnalisée', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-family: 'MaPolicePersonnalisée', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
 
 h2 {
-    color: white;
-    text-decoration: underline;
-    font-family: 'MaPolicePersonnalisée', arial;
+color: white;
+text-decoration: underline;
+font-family: 'MaPolicePersonnalisée', arial;
 }
 
 h3 {
-  color: #179498;
-  text-decoration: underline; /* surligne */
-  font-family: 'MaPolicePersonnalisée', arial;
-  font-size: 25px;
+color: #179498;
+text-decoration: underline; /* surligne */
+font-family: 'MaPolicePersonnalisée', arial;
+font-size: 25px;
 }
 
 h4 {
-  text-decoration: underline;
+text-decoration: underline;
 }
 
 main {
-  text-align: left;
-  font-size: 20px;
-  color: black;
-  padding-right: 300px;
+text-align: left;
+font-size: 20px;
+color: black;
+padding-right: 300px;
 
 }
 
 
- img {
-  border-radius: 50%;
- }
+img {
+border-radius: 50%;
+}
 
 
 aside {
-  background-color: #179498;
-  width: 310px; /* Largeur spécifique */
-  height: 1300px; /* Hauteur spécifique */
-  font-size: 20px;
-  
+background-color: #179498;
+width: 310px; /* Largeur spécifique */
+height: 1300px; /* Hauteur spécifique */
+font-size: 20px;
+padding: 15px;
+box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
 
 footer {
-  background-color: #179498;
-  width: 1510px; /* Largeur spécifique */
-  height: 28px; /* Hauteur spécifique */
+background-color: #179498;
+width: 1510px; /* Largeur spécifique */
+height: 28px; /* Hauteur spécifique */
 }
 
 
 section {
-  font-size: 25px;
-  color: black;
+font-size: 25px;
+color: black;
 }
 
 header {
-  background-image: url('photo_fond.jpg');
-  background-size: cover; /* Ajuste l'image pour couvrir tout l'écran */
-  background-position: center; /* Centre l'image */
-  background-repeat: no-repeat; /* Empêche la répétition de l'image */
+background-image: url('photo_fond.jpg');
+background-size: cover; /* Ajuste l'image pour couvrir tout l'écran */
+background-position: center; /* Centre l'image */
+background-repeat: no-repeat; /* Empêche la répétition de l'image */
 }
+
+
 
